@@ -1,0 +1,71 @@
+[
+  {
+      "alunoId": 1,
+      "nome": "Anna Ferreira",
+      "nomeSocial" : "",
+      "idade": 15,
+      "endereco": "Rua da Paz, 1936",
+      "telefone": "(85) 11111-1111",
+      "cpf": "163.456.789-10",
+      "serie": "8 ano",
+      "turno": "Vespertino"
+  },
+  {
+      "alunoId": 2,
+      "nome": "Maria Lima",
+      "nomeSocial" : "",
+      "idade": 14,
+      "endereco": "Rua do Planato, 4215",
+      "telefone": "(85) 12345-1422",
+      "cpf": "163.123.333-10",
+      "serie": "7 ano",
+      "turno": "Vespertino"
+  },
+  {
+      "alunoId": 3,
+      "nome": "Matias Oliveira",
+      "nomeSocial" : "Karla Oliveira",
+      "idade": 18,
+      "endereco": "Rua Rio de Janeiro, 1212",
+      "telefone": "(85) 12300-5555",
+      "cpf": "163.456.789-10",
+      "serie": "3 ano",
+      "turno": "Integral"
+  },
+  {
+      "alunoId": 4,
+      "nome": "Fernada Ferreira",
+      "nomeSocial" : "Joao Gabriel Ferreira",
+      "idade": 17,
+      "endereco": "Rua dos Bandeirantes, 1955",
+      "telefone": "(11) 12345-1422",
+      "cpf": "193.006.889-10",
+      "serie": "2 ano",
+      "turno": "Integral"
+  },
+  {
+      "alunoId": 5,
+      "nome": "Ana Paula Martins",
+      "nomeSocial" : "",
+      "idade": 13,
+      "endereco": "Rua Curitiba, 2022",
+      "telefone": "(85) 12377-002",
+      "cpf": "163.000.111-10",
+      "serie": "6 ano",
+      "turno": "Matutino"
+  },
+  {
+      "alunoId": 6,
+      "nome": "Nelly Soares",
+      "nomeSocial" : "",
+      "idade": "12",
+      "endereco": "Rua Manaus, 3014",
+      "telefone": "(85) 12555-1422",
+      "cpf": "163.000.111-10",
+      "serie": "5 ano",
+      "turno": "Matutino"
+  }
+]
+  
+   
+  

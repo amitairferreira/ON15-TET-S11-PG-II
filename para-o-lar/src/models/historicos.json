@@ -1,0 +1,99 @@
+[
+  {
+    "historicoId": 1,
+    "aluno": 1,
+    "indiceAcademico": 5,
+    "bolsista": true,
+    "mediasDisciplinas": [ 
+      {"disciplina": "portugues", "media": 10},
+      {"disciplina": "matematica", "media": 5},
+      {"disciplina": "historia", "media": 9},
+      {"disciplina": "geografia", "media": 10},
+      {"disciplina": "ciencias", "media": 7}
+    ]
+  },
+  {
+    "historicoId": 2,
+    "aluno": 2,
+    "indiceAcademico": 8,
+    "bolsista": false,
+    "mediasDisciplinas": [ 
+      {"disciplina": "portugues", "media": 10},
+      {"disciplina": "matematica", "media": 9},
+      {"disciplina": "historia", "media": 10},
+      {"disciplina": "geografia", "media": 9},
+      {"disciplina": "ciencias", "media": 9}
+    ]
+  },
+  {
+    "historicoId": 3,
+    "aluno": 3,
+    "indiceAcademico": 5,
+    "bolsista": true,
+    "mediasDisciplinas": [ 
+      {"disciplina": "portugues", "media": 10},
+      {"disciplina": "matematica", "media": 7},
+      {"disciplina": "historia", "media": 4},
+      {"disciplina": "geografia", "media": 5},
+      {"disciplina": "ciencias", "media": 6}
+    ]
+  },
+  {
+    "historicoId": 4,
+    "aluno": 4,
+    "indiceAcademico": 7,
+    "bolsista": true,
+    "mediasDisciplinas": [ 
+      {"disciplina": "portugues", "media": 10},
+      {"disciplina": "matematica", "media": 8},
+      {"disciplina": "historia", "media": 6},
+      {"disciplina": "geografia", "media": 10},
+      {"disciplina": "ciencias", "media": 8}
+    ]
+  },
+  {
+    "historicoId": 5,
+    "aluno": 5,
+    "indiceAcademico": 9,
+    "bolsista": true,
+    "mediasDisciplinas": [ 
+      {"disciplina": "portugues", "media": 10},
+      {"disciplina": "matematica", "media": 10},
+      {"disciplina": "historia", "media": 9},
+      {"disciplina": "geografia", "media": 10},
+      {"disciplina": "ciencias", "media": 9}
+    ]
+  },
+  {
+    "historicoId": 6,
+    "aluno": 6,
+    "indiceAcademico": 6,
+    "bolsista": true,
+    "mediasDisciplinas": [ 
+      {"disciplina": "portugues", "media": 10},
+      {"disciplina": "matematica", "media": 6},
+      {"disciplina": "historia", "media": 5},
+      {"disciplina": "geografia", "media": 4},
+      {"disciplina": "ciencias", "media": 5}
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
